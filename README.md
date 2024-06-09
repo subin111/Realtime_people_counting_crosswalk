@@ -24,8 +24,13 @@
   
 ## 3. 프로젝트 절차 및 방법
 
+* 개발 세부 계획
+  
 <img src = "https://github.com/subin111/Realtime_people_counting_crosswalk/assets/143717650/c3a296b2-ed57-4c7d-8083-c3868b8f956e" width = "700" height = "350"/>
 
+
+* 작성 일지
+  
   <img src = "https://github.com/subin111/Realtime_people_counting_crosswalk/assets/143717650/681ac8a0-ce68-4c43-96b0-f1f9639f1985" width = "700" height = "400"/>
 
 
