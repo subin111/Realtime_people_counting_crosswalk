@@ -17,16 +17,16 @@
     
 ## 2. 프로젝트 팀 구성 및 역할
 
-<img src = "https://github.com/subin111/Realtime_people_counting_crosswalk/assets/143717650/b45ddc38-fc2d-4c89-bf66-7101d22a4af8" width = "300" height = "300"/>
+<img src = "https://github.com/subin111/Realtime_people_counting_crosswalk/assets/143717650/b45ddc38-fc2d-4c89-bf66-7101d22a4af8" width = "500" height = "300"/>
 
 
 
   
 ## 3. 프로젝트 절차 및 방법
 
-<img src = "https://github.com/subin111/Realtime_people_counting_crosswalk/assets/143717650/c3a296b2-ed57-4c7d-8083-c3868b8f956e" width = "300" height = "300"/>
+<img src = "https://github.com/subin111/Realtime_people_counting_crosswalk/assets/143717650/c3a296b2-ed57-4c7d-8083-c3868b8f956e" width = "500" height = "300"/>
 
-  <img src = "https://github.com/subin111/Realtime_people_counting_crosswalk/assets/143717650/681ac8a0-ce68-4c43-96b0-f1f9639f1985" width = "300" height = "300"/>
+  <img src = "https://github.com/subin111/Realtime_people_counting_crosswalk/assets/143717650/681ac8a0-ce68-4c43-96b0-f1f9639f1985" width = "500" height = "300"/>
 
 
 
