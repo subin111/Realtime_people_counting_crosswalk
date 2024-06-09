@@ -1,4 +1,6 @@
-# 횡단보도에서의 유동인구 카운트
+# Realtime_people_counting_crosswalk
+
+  mobilenet_ssd 모델 + 객체 트래킹을 활용한 인구 카운팅 코드를 통한 횡단보도에서의 유동인구 카운트
 
   ## 목차
    
