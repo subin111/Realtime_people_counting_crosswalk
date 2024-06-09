@@ -11,13 +11,13 @@
 ## 1. 개요
 
 * 문제 발생: 집 앞 사거리 신호체계가 바뀐 뒤, 신호가 꼬여서 오히려 교통체증 발생  
-* 문제 확인: 도시 계획에 있어 횡단보도 시간를 유동인구 수에 따라 할당  
+* 문제 확인: 도시 계획에 있어 횡단보도 시간을 유동인구 수에 따라 할당  
 * 문제 해결 : 수업에서 학습한 내용을 바탕으로 횡단보도의 유동인구를 파악하는 프로젝트 진행
   
     
 ## 2. 프로젝트 팀 구성 및 역할
 
-<img src = "https://github.com/subin111/Realtime_people_counting_crosswalk/assets/143717650/b45ddc38-fc2d-4c89-bf66-7101d22a4af8" width = "700" height = "350"/>
+<img src = "https://github.com/subin111/Realtime_people_counting_crosswalk/assets/143717650/b45ddc38-fc2d-4c89-bf66-7101d22a4af8" width = "650" height = "350"/>
 
 
 
@@ -26,18 +26,19 @@
 
 * 개발 세부 계획
   
-<img src = "https://github.com/subin111/Realtime_people_counting_crosswalk/assets/143717650/c3a296b2-ed57-4c7d-8083-c3868b8f956e" width = "700" height = "350"/>
+<img src = "https://github.com/subin111/Realtime_people_counting_crosswalk/assets/143717650/c3a296b2-ed57-4c7d-8083-c3868b8f956e" width = "650" height = "350"/>
 
 
 * 작성 일지
   
-  <img src = "https://github.com/subin111/Realtime_people_counting_crosswalk/assets/143717650/681ac8a0-ce68-4c43-96b0-f1f9639f1985" width = "700" height = "400"/>
+  <img src = "https://github.com/subin111/Realtime_people_counting_crosswalk/assets/143717650/681ac8a0-ce68-4c43-96b0-f1f9639f1985" width = "650" height = "400"/>
 
 
 
 ## 4. 구현 결과
 
 * 시연 영상
+  
 
 
 
